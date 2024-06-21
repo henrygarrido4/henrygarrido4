@@ -39,7 +39,7 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://github.com/henrygarrido4/Barber.app' target="_blank">
+					<a href='https://exclusivecutz.com/' target="_blank">
 						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project2.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
@@ -61,63 +61,37 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://sandrascreations.store/' target="_blank">
+						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project1.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
-					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+					<p> 
+						<a href="https://sandrascreations.store/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>WordPress</strong></p>
+					<p>Ecommerce Website</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://henrrywebsolutions.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZvWlc1eWNubDNaV0p6YjJ4MWRHbHZibk11YlhsemFHOXdhV1o1TG1OdmJRWTZCa1ZVIiwiZXhwIjoiMjAyNC0wNi0yMVQwMzoxNDowOS42MDJaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--4f81acdfb26d0dcd1df6a3208691089f5697d1ed' target="_blank">
+                        <img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
+                    <p> 
+						<a href="https://henrrywebsolutions.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZvWlc1eWNubDNaV0p6YjJ4MWRHbHZibk11YlhsemFHOXdhV1o1TG1OdmJRWTZCa1ZVIiwiZXhwIjoiMjAyNC0wNi0yMVQwMzoxNDowOS42MDJaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--4f81acdfb26d0dcd1df6a3208691089f5697d1ed" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Shopify Website</strong></p>
+		    <p>Password: Oswaldo123</p>
                 </div>
-            </td>
-            <td width="50%">
-                <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>	
             </td>
         </tr>
 	</table>
