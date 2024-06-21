@@ -1,9 +1,9 @@
 <div id="" align="center">
   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
-<h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h1 align="center">Hi 👋, I'm Henrry Garrido</h1>
+<h3 align="center">A Web developer and Content Editor from Houston, TX</h3>
+<h4 align="center">Hello! I'm Henrry Garrido, a dedicated web developer with a passion for technology. In just one year, I've successfully completed three diverse projects: one with vanilla HTML, CSS, and JavaScript, and two more using WordPress and Shopify. I'm constantly pushing boundaries and creating new projects. My ultimate goal is to empower people by solving their problems through innovative technology solutions. Let's connect and build something amazing together! </h4>
 
 <hr>
 
@@ -19,13 +19,11 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" alt="mysql" width="75" height="75"/> 
                     </div>
 </div>
 
