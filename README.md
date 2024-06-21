@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/bg-img.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Henrry Garrido</h1>
 <h3 align="center">A Web developer and Content Editor from Houston, TX</h3>
