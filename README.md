@@ -52,7 +52,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS, Javascript, Vite</strong></p>
           <p>
 						Barbershop Website 
 					</p>
