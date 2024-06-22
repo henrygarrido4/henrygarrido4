@@ -60,20 +60,26 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
-				<div align="center" >  
-					<a href='https://sandrascreations.store/' target="_blank">
-						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project1.jpg?raw=true" alt="project 2" height="100%" />
+				<div align="center">  
+					<a href='https://henrrygarrido.com/' target="_blank">
+						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project4.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
-					<p> 
-						<a href="https://sandrascreations.store/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+					<p>
+						<a href="https://github.com/henrygarrido4/new-portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://exclusivecutz.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
 					</p>
-					 <p><strong>WordPress</strong></p>
-					<p>Ecommerce Website</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+						Personal - Portfolio
+					</p>
 				</div>
+			</td>
         </tr>
 	    <tr>
             <td width="50%">
@@ -93,6 +99,23 @@
 		    <p>Password: Oswaldo123</p>
                 </div>
             </td>
+	    	<td width="50%">
+				<h3 align="center">Project 4</h3>
+				<div align="center" >  
+					<a href='https://sandrascreations.store/' target="_blank">
+						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project1.jpg?raw=true" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p> 
+						<a href="https://sandrascreations.store/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>WordPress</strong></p>
+					<p>Ecommerce Website</p>
+				</div>
+			</td>
         </tr>
 	</table>
 </div>
