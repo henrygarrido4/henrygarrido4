@@ -62,7 +62,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center">  
 					<a href='https://henrrygarrido.com/' target="_blank">
-						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/project4.jpg?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/henrygarrido4/henrygarrido4/blob/main/assets/screenshot.jpeg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
