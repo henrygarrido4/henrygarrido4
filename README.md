@@ -96,7 +96,7 @@
 						</a>
                     </p>
                     <p><strong>Shopify Website</strong></p>
-		    <p>Password: Oswaldo123</p>
+		    <p>Password: password</p>
                 </div>
             </td>
 	    	<td width="50%">
